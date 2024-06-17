@@ -9,5 +9,4 @@
 </p>
 <p>
   👋 Hi everyone, I’m He<br/>
-  👀 I’m interested in anything<br/>
 </p>
