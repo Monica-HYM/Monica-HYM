@@ -8,6 +8,6 @@
   </a>
 </p>
 <p>
-  👋 Hi, I’m He<br/>
+  👋 Hi everyone, I’m He<br/>
   👀 I’m interested in anything<br/>
 </p>
